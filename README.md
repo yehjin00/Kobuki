@@ -1,2 +1,0 @@
-# Kobuki
-kobuki keyteleop tutorial
