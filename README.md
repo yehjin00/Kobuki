@@ -8,6 +8,7 @@ Make your Kobuki run on ROS Melodic (Ubuntu 18.04).
 - ROS Melodic on Ubuntu 18
 - Kobuki(Turtlebot2)
 
+
 ## How to build Kobuki ROS package
 ```
 Clone this project to your catkin's workspace scr folder
@@ -15,6 +16,7 @@ Clone this project to your catkin's workspace scr folder
  $ cd src
  $ git clone https://github.com/yehjin00/Kobuki.git
  $ catkin_make
+Move the packages in Kobuki-main to $~/catkin_ws/src/
 ```
 
 ## How to build YDLIDAR ROS package
