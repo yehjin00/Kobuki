@@ -21,7 +21,7 @@ Move the packages in Kobuki to $~/catkin_ws/src/
 
 ## How to build YDLIDAR ROS package
 ```
-1. Clone this project to your catkin's workspace scr folder
+1. Clone this project to your catkin's workspace src folder
     $ git clone https://github.com/YDLIDAR/ydlidar_ros
 2. Running catkin_make to build ydlidar_node and ydlidar_client
     $ catkin_make
@@ -34,7 +34,7 @@ Move the packages in Kobuki to $~/catkin_ws/src/
 * Follow this site.
 https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
 
-## How to run Kobuki
+## How to run Kobuki(in each different terminal)
 ```
 $ roscore
 $ roslaunch kobuki_node minimal.launch
