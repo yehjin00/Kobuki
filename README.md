@@ -15,8 +15,8 @@ Clone this project to your catkin's workspace scr folder
  $ cd catkin_ws
  $ cd src
  $ git clone https://github.com/yehjin00/Kobuki.git
+ $ sudo apt install ros-melodic-kobuki-core 
  $ catkin_make
-Move the packages in Kobuki to $~/catkin_ws/src/
 ```
 
 ## How to build YDLIDAR ROS package
